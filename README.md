@@ -1,43 +1,23 @@
-# Jekyll Metro
+# Minimal Mistakes
 
-Jekyll Metro is a metro inspired theme for [Jekyll](http://jekyllrb.com).
+**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
 
-## Summary
+## Minimal Mistakes is all about:
 
-Jekyll Metro is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal sites with blog.
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
+* Minimal embellishments -- content first.
+* Optional large feature images for posts and pages.
+* Simple and clear permalink structure.
+* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
+* Support for Disqus Comments
 
-**Note:** Jekyll Metro is still under active development but you may use one of the available releases. The latest release 0.7.6 is ready for you to use (You will still need some modifications)
+![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
 
-## Features
+See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.
 
-- Responsive Jekyll theme
-- Metro style Homepage
-  - Configurable tiles with different size
-  - Configurable colors for tiles
-  - Display of Latest and Recent articles as tiles
-- Pages for About Me, Resume with configurable color themes
-- Blog home page with listing of articles in pagination
-- Blog article page with configurable color themes
-- Easy integration with Google Analytics
-- Easy integration with Disqus for comments
+## Getting Started
 
-## Demo
+Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
-You can see the live demo of this theme at [http://blog-olakara.rhcloud.com](http://blog-olakara.rhcloud.com)
-
-## Author
-
-**[Abdel Raoof Olakara](http://abdelraoof.com)**
-- <https://github.com/olakara>
-- <https://twitter.com/olakara>
-
-## Contributors
-
-**Stilyan Kongalov**
-- <https://github.com/Stilyan-Kangalov>
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
