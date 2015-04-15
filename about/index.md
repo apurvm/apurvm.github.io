@@ -10,18 +10,21 @@ image:
   creditlink: https://500px.com/prakhar/
 ---
 
-### Some Pertinent Questions Answered
+{% include _toc.html %}
 
-**Hola @all**
+
+**Hola @all**, before you even ask, some pertinent questions very succinctly answered.
+
 
 ####Who am I ?
 Just another unfriendly developer (kidding ofc !!). 
 
 ####What do I do?
-A lot of things, but currently working as a Research Associate under **[Dr.Pushpendra Singh](https://www.iiitd.edu.in/~pushpendra/)** in IIIT - Delhi.
+A lot of things, but currently I'm working as a Research Associate under **[Dr.Pushpendra Singh](https://www.iiitd.edu.in/~pushpendra/)** in IIIT - Delhi.
 
 ####What I did?
 I was the second guy to complete Dual Degree in Computer Science from IIIT - Delhi, not sure if it counts as an achievement.
 
-Need any other info, consider getting in touch !!!
+For professional info not on the page please check out my **[CV](https://db.tt/j0tinWrM)**.
+Need any other info, consider getting in touch.!!!
 {: .notice}
