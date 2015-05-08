@@ -59,6 +59,24 @@ Our  architecture handles  the  privacy  and  security  requirements,  and  also
 
 ##Set Up
 
+The following steps list the steps to setup the development environment on a Windows 8.1 Machine.
+
+Prerequisites
+
+1. Install JDK 1.8
+2. Install Apache Tomcat v8 from [here](http://tomcat.apache.org/). I tested it with 32-bit Windows version.
+3. Download and Extract Eclipse JEE Edition from [here](http://eclipse.org/downloads/)
+	1. Install Spring Tool Suite 4.4 from the eclipse marketplace 
+	2. Setup Eclipse to use Apache Server for deployment
+4. Install RabbitMQ Server following instructions from [here](https://www.rabbitmq.com/install-windows.html). The server setup will require Erlang installation.
+
+Once we have installed all the dependencies we can now get the source code to deploy the web service as well as Mobile Application on Android Phones.
+
+1. Download the project source from [Github](https://github.com/am2990/chs-iiitd)
+2. Import the code into Eclipse as *'Existing Maven Project'*.
+
+
+
 ##External Links
 
 ### Repositories
