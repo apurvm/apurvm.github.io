@@ -74,7 +74,10 @@ Once we have installed all the dependencies we can now get the source code to de
 
 1. Download the project source from [Github](https://github.com/am2990/chs-iiitd)
 2. Import the code into Eclipse as *'Existing Maven Project'*.
-
+3. Import [chs.sql]() MySQL dump to configure the basic schema for the project
+4. Enable the RabbitMQ Management Plugin by running the command *rabbitmq-plugins enable rabbitmq_management* on RabbitMQ Console 
+5. Access the RabbitMQ Management Console from *http://server-name:15672/* (default username: guest, password:guest) and create a new user (username:chs password:chs123)
+6. RabbitMQ Logs are located in *C:\Users\<username>\AppData\Roaming\RabbitMQ\log*. 
 
 
 ##External Links
